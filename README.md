@@ -2,7 +2,9 @@
 A simple linear regression of brain weight to body weight ratio
 # Dependencies:
 pandas
+
 scikit-learn
+
 matplotlib
 
 # errors
