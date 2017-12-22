@@ -8,7 +8,7 @@ scikit-learn
 matplotlib
 
 ## Errors
-Plotting of the graph gives weird results
+Plotting of the graph gives weird results.
 
 
-The credits of this code go to: [Siraj Raval](https://github.com/llSourcell)
+######The credits of this code go to: [Siraj Raval](https://github.com/llSourcell)
